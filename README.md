@@ -228,5 +228,3 @@ pytest
 
 **Rushik Reddy**
 
-- Passionate about building practical software solutions  
-- Interested in Data Structure
